@@ -4,7 +4,7 @@ This is a fork of Ian Hill's excellent [Soda Theme](https://github.com/buymeasod
 
 ## Design
 
-![Soda Light Refined Theme Min Chrome](http://i.imgur.com/2gbVE.png)
+![Soda Light Refined Theme Min Chrome](http://i.imgur.com/UHrTn.png)
 
 ![Soda Light Refined Theme](http://i.imgur.com/kPJOe.png)
 
