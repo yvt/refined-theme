@@ -1,10 +1,10 @@
 # Soda Refined Theme
 
-This is a fork of Ian Hill's excellent [Soda Theme](https://github.com/buymeasoda/soda-theme). This fork is an attempt to refine some elements of Ian's original theme to produce the best Sublime Text 2 theme possible for OS X.
+This is a fork of Ian Hill's excellent [Soda Theme](https://github.com/buymeasoda/soda-theme). This fork is an attempt to refine some elements of Ian's original theme to produce the best Sublime Text 2 theme possible.
 
 ## Design
 
-![Soda Light Refined Theme](http://buymeasoda.github.com/soda-theme/images/screenshots/soda-light-theme.png?v=7)
+![Soda Light Refined Theme](http://cafarm.github.com/soda-refined-theme/images/screenshots/soda-light-refined-theme.png?v=7)
 Soda Light is the only refined version at the moment.
 
 ## Installation
