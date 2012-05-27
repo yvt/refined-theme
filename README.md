@@ -39,6 +39,8 @@ To configure Sublime Text 2 to use the theme:
         "theme": "Soda Light Refined.sublime-theme"
     }
 
+You will have to restart Sublime for the theme to take full effect.
+
 ## Bonus Options
 
 ### Syntax Highlighting Colour Schemes
