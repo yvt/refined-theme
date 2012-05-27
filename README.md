@@ -4,7 +4,10 @@ This is a fork of Ian Hill's excellent [Soda Theme](https://github.com/buymeasod
 
 ## Design
 
-![Soda Light Refined Theme](http://cafarm.github.com/soda-refined-theme/images/screenshots/soda-light-refined-theme.png?v=7)
+![Soda Light Refined Theme Min Chrome](http://mcafaro.com/images/soda-light-refined-theme-min.png)
+
+![Soda Light Refined Theme](http://mcafaro.com/images/soda-light-refined-theme.png)
+
 Soda Light is the only refined version at the moment.
 
 ## Installation
@@ -39,3 +42,7 @@ To configure Sublime Text 2 to use the theme:
 ## Additional Details
 
 For additional details on obtaining the syntax highlighting color scheme and code font shown in the image above, see the original [Soda Theme repository](https://github.com/buymeasoda/soda-theme).
+
+## Legals
+
+The theme contains some icons from the excellent [Pictos](http://pictos.drewwilson.com/) series by Drew Wilson. Any use of these icons, other than for the purpose of the theme itself, would need to comply with Drew's [icon licensing agreement](http://stockart.drewwilson.com/license/).
