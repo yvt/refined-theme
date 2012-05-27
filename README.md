@@ -1,12 +1,11 @@
-# Soda Theme
+# Soda Refined Theme
 
-Dark and light custom UI themes for Sublime Text 2.
+This is a fork of Ian Hill's excellent [Soda Theme](https://github.com/buymeasoda/soda-theme). This fork is an attempt to refine some elements of Ian's original theme to produce the best Sublime Text 2 theme possible for OS X.
 
 ## Design
 
-![Soda Light Theme](http://buymeasoda.github.com/soda-theme/images/screenshots/soda-light-theme.png?v=7)
-
-![Soda Dark Theme](http://buymeasoda.github.com/soda-theme/images/screenshots/soda-dark-theme.png?v=7)
+![Soda Light Refined Theme](http://buymeasoda.github.com/soda-theme/images/screenshots/soda-light-theme.png?v=7)
+Soda Light is the only refined version at the moment.
 
 ## Installation
 
@@ -16,12 +15,12 @@ If you are a git user, the best way to install the theme and keep up to date is 
 
 Go to your Sublime Text 2 `Packages` directory and clone the theme repository using the command below:
 
-    git clone https://github.com/buymeasoda/soda-theme/ "Theme - Soda"
+    git clone https://github.com/cafarm/soda-refined-theme.git "Theme - Soda Refined"
 
 ### Download Manually
 
 * Download the files using the GitHub .zip download option
-* Unzip the files and rename the folder to `Theme - Soda`
+* Unzip the files and rename the folder to `Theme - Soda Refined`
 * Copy the folder to your Sublime Text 2 `Packages` directory
 
 ## Activating the theme
@@ -29,38 +28,14 @@ Go to your Sublime Text 2 `Packages` directory and clone the theme repository us
 To configure Sublime Text 2 to use the theme:
 
 * For Sublime Text 2 (Build 2174) and later - Open your User Settings Preferences file `Sublime Text 2 -> Preferences -> Settings - User`. For earlier builds - Open your User Global Settings Preferences file `Sublime Text 2 -> Preferences -> Global Settings - User`
-* Add (or update) your theme entry to be `"theme": "Soda Light.sublime-theme"` or `"theme": "Soda Dark.sublime-theme"`
+* Add (or update) your theme entry to be `"theme": "Soda Light Refined.sublime-theme"`
 
 ### Example User Settings
 
     {
-        "theme": "Soda Light.sublime-theme"
+        "theme": "Soda Light Refined.sublime-theme"
     }
 
-## Bonus Options
+## Additional Details
 
-### Syntax Highlighting Colour Schemes
-
-The Soda Light screenshot uses a modified version of Espresso Tutti Colori and the Soda Dark screenshot uses a modified version of Monokai.
-
-If you'd like to use the syntax highlighting schemes shown in the screenshots: 
-
-* Download [colour-schemes.zip](http://buymeasoda.github.com/soda-theme/extras/colour-schemes.zip)
-* Unzip and place the extracted `tmtheme` files in the Sublime Text 2 `Packages/User` folder
-* Enable the colour scheme via `Preferences -> Color Scheme -> User`
-
-### Code Font
-
-The code font shown in the screenshot is [Meslo](https://github.com/andreberg/Meslo-Font), which is a modified version of Menlo.
-
-## Release Notes
-
-Soda theme is designed to work with the latest [development build](http://www.sublimetext.com/dev) of Sublime Text 2. ST2 dev builds move quickly and changes can occur with the theme API between releases, so there may be occassions where the theme doesn't quite work with a brand new dev release.
-
-## Development
-
-While developing the theme, I have documented some [theme challenges and ideas](https://github.com/buymeasoda/soda-theme/wiki/Theme-challenges-and-ideas) encountered along the way.
-
-## Legals
-
-The theme contains some icons from the excellent [Pictos](http://pictos.drewwilson.com/) series by Drew Wilson which I have a license for. Any use of these icons, other than for the purpose of the theme itself, would need to comply with Drew's [icon licensing agreement](http://stockart.drewwilson.com/license/).
+For additional details on obtaining the syntax highlighting color scheme and code font shown in the image above, see the original [Soda Theme repository](https://github.com/buymeasoda/soda-theme).
