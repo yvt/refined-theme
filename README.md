@@ -39,9 +39,21 @@ To configure Sublime Text 2 to use the theme:
         "theme": "Soda Light Refined.sublime-theme"
     }
 
+## Bonus Options
+
+### Syntax Highlighting Colour Schemes
+
+The Soda Light Refined screenshots use a modified version of Espresso Soda.
+
+If you'd like to use the syntax highlighting scheme shown in the screenshots: 
+
+* Download [colour-scheme.zip](http://mcafaro.com/soda-refined-theme/colour-scheme.zip)
+* Unzip and place the extracted `tmtheme` files in the Sublime Text 2 `Packages/User` folder
+* Enable the colour scheme via `Preferences -> Color Scheme -> User`
+
 ## Additional Details
 
-For additional details on obtaining the syntax highlighting color scheme and code font shown in the image above, see the original [Soda Theme repository](https://github.com/buymeasoda/soda-theme).
+For additional details see the original [Soda Theme repository](https://github.com/buymeasoda/soda-theme).
 
 ## Legals
 
