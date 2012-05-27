@@ -53,6 +53,12 @@ If you'd like to use the syntax highlighting scheme shown in the screenshots:
 * Unzip and place the extracted `tmtheme` files in the Sublime Text 2 `Packages/User` folder
 * Enable the colour scheme via `Preferences -> Color Scheme -> User`
 
+### Fold [...] Image
+
+Interested in an improved fold [...] image? In the current version of Sublime this image is hardcoded to the `Theme - Default` folder. Once you've installed Soda Refined, overwrite `Packages/Theme - Default/fold.png` with `Packages/Theme - Soda Refined/fold.png`.
+
+![fold](http://i.imgur.com/t1YGB.png)
+
 ## Additional Details
 
 For additional details see the original [Soda Theme repository](https://github.com/buymeasoda/soda-theme).
