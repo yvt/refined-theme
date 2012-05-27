@@ -55,7 +55,7 @@ If you'd like to use the syntax highlighting scheme shown in the screenshots:
 
 ### Fold [...] Image
 
-Interested in an improved fold [...] image? In the current version of Sublime this image is hardcoded to the `Theme - Default` folder. Once you've installed Soda Refined, overwrite `Packages/Theme - Default/fold.png` with `Packages/Theme - Soda Refined/fold.png`.
+Interested in an improved fold [...] image? In the current version of Sublime this image is hardcoded to the `Theme - Default` folder. Once you've installed Soda Refined, overwrite `Packages/Theme - Default/fold.png` with `Packages/Theme - Soda Refined/Soda Light Refined/fold.png`.
 
 ![fold](http://i.imgur.com/t1YGB.png)
 
