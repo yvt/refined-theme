@@ -16,7 +16,7 @@ If you are a git user, the best way to install the theme and keep up to date is 
 
 ### Using Git
 
-Go to your Sublime Text 2 `Packages` directory and clone the theme repository using the command below:
+Go to your Sublime Text 2 `Packages` directory (`~/Library/Application Support/Sublime Text 2/Packages` on OS X) and clone the theme repository using the command below:
 
     git clone https://github.com/cafarm/soda-refined-theme.git "Theme - Soda Refined"
 
