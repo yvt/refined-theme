@@ -305,7 +305,7 @@
     {
         "class": "grid_layout_control",
         "border_size": 1,
-        "border_color": [165, 165, 165]
+        "border_color": [153, 153, 153]
     },
 
 //
@@ -314,7 +314,7 @@
 
     {
         "class": "minimap_control",
-        "viewport_color": [0, 0, 0, 21]
+        "viewport_color": [0, 0, 0, 18]
     },
 
 //
@@ -390,7 +390,7 @@
     // Sidebar container
     {
         "class": "sidebar_container",
-        "layer0.tint": [172, 172, 172],
+        "layer0.tint": [153, 153, 153],
         "layer0.opacity": 1.0,
         "layer0.draw_center": false,
         "layer0.inner_margin": [0, 0, 1, 0],
