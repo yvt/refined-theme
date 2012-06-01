@@ -305,7 +305,7 @@
     {
         "class": "grid_layout_control",
         "border_size": 1,
-        "border_color": [153, 153, 153]
+        "border_color": [180, 180, 180]
     },
 
 //
@@ -390,7 +390,7 @@
     // Sidebar container
     {
         "class": "sidebar_container",
-        "layer0.tint": [153, 153, 153],
+        "layer0.tint": [180, 180, 180],
         "layer0.opacity": 1.0,
         "layer0.draw_center": false,
         "layer0.inner_margin": [0, 0, 1, 0],
