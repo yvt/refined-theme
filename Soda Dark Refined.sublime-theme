@@ -439,7 +439,7 @@
     {
         "class": "sidebar_label",
         "parents": [{"class": "tree_row", "attributes": ["expandable"]}],
-        "color": [210, 210, 210],
+        "color": [180, 180, 180],
         "shadow_color": [0, 0, 0],
         "shadow_offset": [0, 1]
     },
