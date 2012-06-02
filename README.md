@@ -1,14 +1,10 @@
 # Soda Refined Theme
 
-This is a fork of Ian Hill's excellent [Soda Theme](https://github.com/buymeasoda/soda-theme). This fork is an attempt to refine some elements of Ian's original theme to produce the best Sublime Text 2 theme possible.
+A refined version of Ian Hill's excellent [Soda Theme](https://github.com/buymeasoda/soda-theme).
 
 ## Design
 
-![Soda Light Refined Theme Min Chrome](http://i.imgur.com/DVLiv.png)
-
 ![Soda Light Refined Theme](http://i.imgur.com/PrRZx.png)
-
-![Soda Dark Refined Theme Min Chrome](http://i.imgur.com/hwf51.png)
 
 ![Soda Dark Refined Theme](http://i.imgur.com/rYx0h.png)
 
