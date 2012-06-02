@@ -10,7 +10,7 @@ This is a fork of Ian Hill's excellent [Soda Theme](https://github.com/buymeasod
 
 ![Soda Dark Refined Theme Min Chrome](http://i.imgur.com/hwf51.png)
 
-![Soda Dark Refined Theme](http://i.imgur.com/yzJKV.png)
+![Soda Dark Refined Theme](http://i.imgur.com/rYx0h.png)
 
 ## Installation
 
