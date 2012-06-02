@@ -51,7 +51,7 @@ The Soda Light Refined screenshots use a modified version of Espresso Soda and t
 
 If you'd like to use the syntax highlighting schemes shown in the screenshots: 
 
-* Download [colour-scheme.zip](http://mcafaro.com/soda-refined-theme/colour-scheme.zip)
+* Download [colour-schemes.zip](http://mcafaro.com/soda-refined-theme/colour-schemes.zip)
 * Unzip and place the extracted `tmtheme` files in the Sublime Text 2 `Packages/User` folder
 * Enable the colour scheme via `Preferences -> Color Scheme -> User`
 
