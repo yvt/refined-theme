@@ -8,7 +8,9 @@ This is a fork of Ian Hill's excellent [Soda Theme](https://github.com/buymeasod
 
 ![Soda Light Refined Theme](http://i.imgur.com/PrRZx.png)
 
-Soda Light is the only refined version at the moment.
+![Soda Dark Refined Theme Min Chrome](http://i.imgur.com/hwf51.png)
+
+![Soda Dark Refined Theme](http://i.imgur.com/yzJKV.png)
 
 ## Installation
 
@@ -31,7 +33,7 @@ Go to your Sublime Text 2 `Packages` directory (`~/Library/Application Support/S
 To configure Sublime Text 2 to use the theme:
 
 * For Sublime Text 2 (Build 2174) and later - Open your User Settings Preferences file `Sublime Text 2 -> Preferences -> Settings - User`. For earlier builds - Open your User Global Settings Preferences file `Sublime Text 2 -> Preferences -> Global Settings - User`
-* Add (or update) your theme entry to be `"theme": "Soda Light Refined.sublime-theme"`
+* Add (or update) your theme entry to be `"theme": "Soda Light Refined.sublime-theme"` or `"theme": "Soda Dark Refined.sublime-theme"`
 
 ### Example User Settings
 
@@ -45,9 +47,9 @@ You will have to restart Sublime for the theme to take full effect.
 
 ### Syntax Highlighting Colour Schemes
 
-The Soda Light Refined screenshots use a modified version of Espresso Soda.
+The Soda Light Refined screenshots use a modified version of Espresso Soda and the Soda Dark Refined screenshots use a modified version of Monokai Soda.
 
-If you'd like to use the syntax highlighting scheme shown in the screenshots: 
+If you'd like to use the syntax highlighting schemes shown in the screenshots: 
 
 * Download [colour-scheme.zip](http://mcafaro.com/soda-refined-theme/colour-scheme.zip)
 * Unzip and place the extracted `tmtheme` files in the Sublime Text 2 `Packages/User` folder
@@ -65,4 +67,4 @@ For additional details see the original [Soda Theme repository](https://github.c
 
 ## Legals
 
-The theme contains some icons from the excellent [Pictos](http://pictos.drewwilson.com/) series by Drew Wilson. Any use of these icons, other than for the purpose of the theme itself, would need to comply with Drew's [icon licensing agreement](http://stockart.drewwilson.com/license/).
+This theme contains some icons from the excellent [Pictos](http://pictos.drewwilson.com/) series by Drew Wilson. Any use of these icons, other than for the purpose of the theme itself, would need to comply with Drew's [icon licensing agreement](http://stockart.drewwilson.com/license/).
