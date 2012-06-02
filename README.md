@@ -4,9 +4,9 @@ This is a fork of Ian Hill's excellent [Soda Theme](https://github.com/buymeasod
 
 ## Design
 
-![Soda Light Refined Theme Min Chrome](http://i.imgur.com/HL7zB.png)
+![Soda Light Refined Theme Min Chrome](http://i.imgur.com/DVLiv.png)
 
-![Soda Light Refined Theme](http://i.imgur.com/uDpn9.png)
+![Soda Light Refined Theme](http://i.imgur.com/PrRZx.png)
 
 Soda Light is the only refined version at the moment.
 
