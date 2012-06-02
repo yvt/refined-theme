@@ -14,19 +14,11 @@ This is a fork of Ian Hill's excellent [Soda Theme](https://github.com/buymeasod
 
 ## Installation
 
-If you are a git user, the best way to install the theme and keep up to date is to clone the repo directly into your `Packages` directory in the Sublime Text 2 application settings area.
+The best way to install Soda Refined is through [Package Control](http://wbond.net/sublime_packages/package_control).
 
-### Using Git
-
-Go to your Sublime Text 2 `Packages` directory (`~/Library/Application Support/Sublime Text 2/Packages` on OS X) and clone the theme repository using the command below:
+If you do not wish to use Package Control, clone this repository directly into the `Packages` directory in the Sublime Text 2 application settings area (`~/Library/Application Support/Sublime Text 2/Packages` on OS X). The git clone command would be as follows:
 
     git clone https://github.com/cafarm/soda-refined-theme.git "Theme - Soda Refined"
-
-### Download Manually
-
-* Download the files using the GitHub .zip download option
-* Unzip the files and rename the folder to `Theme - Soda Refined`
-* Copy the folder to your Sublime Text 2 `Packages` directory
 
 ## Activating the theme
 
@@ -45,19 +37,25 @@ You will have to restart Sublime for the theme to take full effect.
 
 ## Bonus Options
 
-### Syntax Highlighting Colour Schemes
+### Syntax Highlighting Color Schemes
 
-The Soda Light Refined screenshots use a modified version of Espresso Soda and the Soda Dark Refined screenshots use a modified version of Monokai Soda.
+Soda Refined includes four of the best color schemes available (two light, two dark). Each color scheme has been refined from its original version to work well with Soda Refined. Color schemes are activated via `Preferences -> Color Scheme -> Theme - Soda Refined` in Sublime Text 2.
 
-If you'd like to use the syntax highlighting schemes shown in the screenshots: 
+#### Espresso Refined
+![espresso refined](http://i.imgur.com/Jwyrs.png)
 
-* Download [colour-schemes.zip](http://mcafaro.com/soda-refined-theme/colour-schemes.zip)
-* Unzip and place the extracted `tmtheme` files in the Sublime Text 2 `Packages/User` folder
-* Enable the colour scheme via `Preferences -> Color Scheme -> User`
+#### Tomorrow Refined
+![tomorrow refined](http://i.imgur.com/WWnp6.png)
+
+#### Monokai Refined
+![monokai refined](http://i.imgur.com/lLFtA.png)
+
+#### Tomorrow Night Refined
+![tomorrow night refined](http://i.imgur.com/JpO0q.png)
 
 ### Fold [...] Image
 
-Interested in an improved fold [...] image? In the current version of Sublime this image is hardcoded to the `Theme - Default` folder. Once you've installed Soda Refined, overwrite `Packages/Theme - Default/fold.png` with `Packages/Theme - Soda Refined/Soda Light Refined/fold.png`.
+Interested in an improved fold [...] image? In the current version of Sublime this image is hard-coded to the `Theme - Default` folder. Once you've installed Soda Refined, overwrite `Packages/Theme - Default/fold.png` with `Packages/Theme - Soda Refined/Soda Light Refined/fold.png`.
 
 ![fold](http://i.imgur.com/t1YGB.png)
 
