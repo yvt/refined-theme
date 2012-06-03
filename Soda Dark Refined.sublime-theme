@@ -74,12 +74,12 @@
     {
         "class": "tab_label",
         "parents": [{"class": "tab_control", "attributes": ["hover"]}],
-        "fg": [200, 200, 200]
+        "fg": [210, 210, 210]
     },
     {
         "class": "tab_label",
         "parents": [{"class": "tab_control", "attributes": ["selected"]}],
-        "fg": [240, 240, 240]
+        "fg": [235, 235, 235]
     },
     // Tab close button
     {
@@ -323,7 +323,7 @@
     // General labels
     {
         "class": "label_control",
-        "color": [200, 200, 200]
+        "color": [210, 210, 210]
     },
     // Text field labels
     {
@@ -336,7 +336,7 @@
     {
         "class": "label_control",
         "parents": [{"class": "button_control"}],
-        "color": [225, 225, 225],
+        "color": [210, 210, 210],
         "shadow_color": [40, 40, 40],
         "shadow_offset": [0, 1]
     },
@@ -632,11 +632,11 @@
     },
     {
         "class": "quick_panel_label",
-        "fg": [210, 210, 210, 255],
-        "match_fg": [130, 166, 219, 255],
+        "fg": [170, 170, 170, 255],
+        "match_fg": [89, 137, 187, 255],
         "bg": [41, 41, 41, 255],
-        "selected_fg": [255, 255, 255, 255],
-        "selected_match_fg": [146, 186, 255, 255],
+        "selected_fg": [245, 245, 245, 255],
+        "selected_match_fg": [119, 184, 250, 255],
         "selected_bg": [24, 24, 24, 255]
     },
     {
@@ -650,9 +650,9 @@
     },
     {
         "class": "quick_panel_score_label",
-        "fg": [130, 166, 219, 255],
+        "fg": [89, 137, 187, 255],
         "bg": [41, 41, 41, 255],
-        "selected_fg": [146, 186, 255, 255],
+        "selected_fg": [119, 184, 250, 255],
         "selected_bg": [24, 24, 24, 255]
     },
 
@@ -689,11 +689,11 @@
     },
     {
         "class": "auto_complete_label",
-        "fg": [140, 140, 140],
-        "match_fg": [255, 255, 255],
+        "fg": [135, 135, 135],
+        "match_fg": [245, 245, 245],
         "bg": [41, 41, 41],
-        "selected_fg": [255, 255, 255],
-        "selected_match_fg": [255, 255, 255],
+        "selected_fg": [245, 245, 245],
+        "selected_match_fg": [245, 245, 245],
         "selected_bg": [86, 86, 86]
     },
     {
