@@ -1,12 +1,12 @@
-# Soda Refined Theme
+# Refined Theme
 
 A refined version of Ian Hill's excellent [Soda Theme](https://github.com/buymeasoda/soda-theme).
 
 ## Design
 
-![Soda Light Refined Theme](http://i.imgur.com/PrRZx.png)
+![Refined-Light Theme](http://i.imgur.com/PrRZx.png)
 
-![Soda Dark Refined Theme](http://i.imgur.com/rYx0h.png)
+![Refined-Dark Theme](http://i.imgur.com/rYx0h.png)
 
 ## Installation
 
@@ -21,12 +21,12 @@ If you do not wish to use Package Control, clone this repository directly into t
 To configure Sublime Text 2 to use the theme:
 
 * For Sublime Text 2 (Build 2174) and later - Open your User Settings Preferences file `Sublime Text 2 -> Preferences -> Settings - User`. For earlier builds - Open your User Global Settings Preferences file `Sublime Text 2 -> Preferences -> Global Settings - User`
-* Add (or update) your theme entry to be `"theme": "Soda Light Refined.sublime-theme"` or `"theme": "Soda Dark Refined.sublime-theme"`
+* Add (or update) your theme entry to be `"theme": "Refined-Light.sublime-theme"` or `"theme": "Refined-DarkRefined-Dark.sublime-theme"`
 
 ### Example User Settings
 
     {
-        "theme": "Soda Light Refined.sublime-theme"
+        "theme": "Refined-Light.sublime-theme"
     }
 
 You will have to restart Sublime for the theme to take full effect.
@@ -51,7 +51,7 @@ Soda Refined includes four of the best color schemes available (two light, two d
 
 ### Fold [...] Image
 
-Interested in an improved fold [...] image? In the current version of Sublime this image is hard-coded to the `Theme - Default` folder. Once you've installed Soda Refined, overwrite `Packages/Theme - Default/fold.png` with `Packages/Theme - Soda Refined/Soda Light Refined/fold.png`.
+Interested in an improved fold [...] image? In the current version of Sublime this image is hard-coded to the `Theme - Default` folder. Once you've installed Soda Refined, overwrite `Packages/Theme - Default/fold.png` with `Packages/Theme - Soda Refined/Refined-Light/fold.png`.
 
 ![fold](http://i.imgur.com/t1YGB.png)
 
