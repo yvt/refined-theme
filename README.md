@@ -12,9 +12,12 @@ If you do not wish to use Package Control, clone this repository directly into t
 
 ### Example User Settings
 
-    {
-        "theme": "Refined-Hybrid.sublime-theme"
-    }
+    // Hybrid
+    "theme": "Refined-Hybrid.sublime-theme",
+    // Light
+    "theme": "Refined-Light.sublime-theme",
+    // Dark
+    "theme": "Refined-Dark.sublime-theme",
 
 You will have to restart Sublime for the theme to take full effect.
 
@@ -24,8 +27,8 @@ Interested in an improved fold [...] image? In the current version of Sublime th
 
 ## Additional Details
 
-[Soda Theme repository](https://github.com/buymeasoda/soda-theme) 
-[Aqua Theme repository](https://github.com/cafarm/aqua-theme) 
+[Soda Theme repository](https://github.com/buymeasoda/soda-theme)  
+[Aqua Theme repository](https://github.com/cafarm/aqua-theme)  
 
 ## Legals
 
