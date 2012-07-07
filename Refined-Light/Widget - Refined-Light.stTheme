@@ -26,9 +26,9 @@
 				<key>selection</key>
 				<string>#B5D5FF</string>
 				<key>selectionBorder</key>
-                <string>#B5D5FF</string>
-                <key>inactiveSelection</key>
-                <string>#D4D4D4</string>
+				<string>#B5D5FF</string>
+				<key>inactiveSelection</key>
+				<string>#D4D4D4</string>
 			</dict>
 		</dict>
 	</array>
