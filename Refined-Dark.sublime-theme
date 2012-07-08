@@ -293,7 +293,7 @@
 
 	{
 		"class": "sheet_container_control",
-		"layer0.tint": [22, 22, 22],
+		"layer0.tint": [0, 0, 0],
 		"layer0.opacity": 1.0
 	},
 
@@ -304,7 +304,7 @@
 	{
 		"class": "grid_layout_control",
 		"border_size": 1,
-		"border_color": [0, 0, 0]
+		"border_color": [80, 80, 80]
 	},
 
 //
@@ -391,7 +391,7 @@
 	// Sidebar container
 	{
 		"class": "sidebar_container",
-		"layer0.tint": [0, 0, 0],
+		"layer0.tint": [80, 80, 80],
 		"layer0.opacity": 1.0,
 		"layer0.draw_center": false,
 		"layer0.inner_margin": [0, 0, 1, 0],
