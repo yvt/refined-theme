@@ -24,13 +24,13 @@
 				<key>selection</key>
 				<string>#B5D5FF</string>
 				<key>selectionBorder</key>
-                <string>#B5D5FF</string>
-                <key>inactiveSelection</key>
-                <string>#D4D4D4</string>
-                <key>findHighlight</key>
-                <string>#F4DE88</string>
-                <key>findHighlightForeground</key>
-                <string>#000000</string>
+								<string>#B5D5FF</string>
+								<key>inactiveSelection</key>
+								<string>#D4D4D4</string>
+								<key>findHighlight</key>
+								<string>#F4DE88</string>
+								<key>findHighlightForeground</key>
+								<string>#000000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -185,6 +185,24 @@
 				<string></string>
 				<key>foreground</key>
 				<string>#FFFFFF</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>constant.numeric.line-number.find-in-files - match</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#AE81FFA0</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>scope</key>
+			<string>entity.name.filename.find-in-files</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#C82829</string>
 			</dict>
 		</dict>
 	</array>
