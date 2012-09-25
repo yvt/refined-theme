@@ -221,6 +221,17 @@
 			</dict>
 			<dict>
 				<key>name</key>
+				<string>String Quoted</string>
+				<key>scope</key>
+				<string>string.quoted</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#e5d56d</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
 				<string>Markup tag</string>
 				<key>scope</key>
 				<string>meta.tag punctuation.definition.tag, meta.tag entity.name.tag</string>
