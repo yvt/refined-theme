@@ -10,7 +10,7 @@
 				<key>settings</key>
 				<dict>
 					<key>background</key>
-					<string>#000000</string>
+					<string>#1b1b1b</string>
 					<key>caret</key>
 					<string>#ffffff</string>
 					<key>foreground</key>
@@ -87,8 +87,6 @@
 				<string>variable</string>
 				<key>settings</key>
 				<dict>
-					<key>fontStyle</key>
-					<string></string>
 					<key>foreground</key>
 					<string>#D3CFA7</string>
 				</dict>
@@ -111,8 +109,6 @@
 				<string>storage</string>
 				<key>settings</key>
 				<dict>
-					<key>fontStyle</key>
-					<string></string>
 					<key>foreground</key>
 					<string>#FA841A</string>
 				</dict>
@@ -124,8 +120,6 @@
 				<string>storage.type</string>
 				<key>settings</key>
 				<dict>
-					<key>fontStyle</key>
-					<string></string>
 					<key>foreground</key>
 					<string>#58D1EB</string>
 				</dict>
@@ -137,8 +131,6 @@
 				<string>entity.name.class</string>
 				<key>settings</key>
 				<dict>
-					<key>fontStyle</key>
-					<string></string>
 					<key>foreground</key>
 					<string>#98E124</string>
 				</dict>
@@ -150,8 +142,6 @@
 				<string>entity.other.inherited-class</string>
 				<key>settings</key>
 				<dict>
-					<key>fontStyle</key>
-					<string></string>
 					<key>foreground</key>
 					<string>#98E124</string>
 				</dict>
@@ -163,8 +153,6 @@
 				<string>entity.name.function</string>
 				<key>settings</key>
 				<dict>
-					<key>fontStyle</key>
-					<string></string>
 					<key>foreground</key>
 					<string>#98E124</string>
 				</dict>
@@ -176,8 +164,6 @@
 				<string>variable.parameter</string>
 				<key>settings</key>
 				<dict>
-					<key>fontStyle</key>
-					<string></string>
 					<key>foreground</key>
 					<string>#FA841A</string>
 				</dict>
@@ -189,8 +175,6 @@
 				<string>meta.tag.preprocessor.xml</string>
 				<key>settings</key>
 				<dict>
-					<key>fontStyle</key>
-					<string></string>
 					<key>foreground</key>
 					<string>#68685B</string>
 				</dict>
@@ -202,8 +186,6 @@
 				<string>meta.tag.sgml.doctype, meta.tag.sgml.doctype entity, meta.tag.sgml.doctype string, meta.tag.preprocessor.xml, meta.tag.preprocessor.xml entity, meta.tag.preprocessor.xml string</string>
 				<key>settings</key>
 				<dict>
-					<key>fontStyle</key>
-					<string></string>
 					<key>foreground</key>
 					<string>#84A4AA</string>
 				</dict>
@@ -237,8 +219,6 @@
 				<string>meta.tag punctuation.definition.tag, meta.tag entity.name.tag</string>
 				<key>settings</key>
 				<dict>
-					<key>fontStyle</key>
-					<string></string>
 					<key>foreground</key>
 					<string>#DA4632</string>
 				</dict>
@@ -294,8 +274,6 @@
 				<string>entity.other.attribute-name</string>
 				<key>settings</key>
 				<dict>
-					<key>fontStyle</key>
-					<string></string>
 					<key>foreground</key>
 					<string>#42D1EC</string>
 				</dict>
@@ -307,8 +285,6 @@
 				<string>support.function</string>
 				<key>settings</key>
 				<dict>
-					<key>fontStyle</key>
-					<string></string>
 					<key>foreground</key>
 					<string>#42D1EC</string>
 				</dict>
@@ -320,8 +296,6 @@
 				<string>support.constant</string>
 				<key>settings</key>
 				<dict>
-					<key>fontStyle</key>
-					<string></string>
 					<key>foreground</key>
 					<string>#42D1EC</string>
 				</dict>
@@ -333,8 +307,6 @@
 				<string>support.type, support.class</string>
 				<key>settings</key>
 				<dict>
-					<key>fontStyle</key>
-					<string></string>
 					<key>foreground</key>
 					<string>#42D1EC</string>
 				</dict>
@@ -346,8 +318,6 @@
 				<string>support.other.variable</string>
 				<key>settings</key>
 				<dict>
-					<key>fontStyle</key>
-					<string></string>
 				</dict>
 			</dict>
 			<dict>
@@ -359,8 +329,6 @@
 				<dict>
 					<key>background</key>
 					<string>#38000B</string>
-					<key>fontStyle</key>
-					<string></string>
 					<key>foreground</key>
 					<string>#E6002B</string>
 				</dict>
