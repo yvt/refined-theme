@@ -302,6 +302,17 @@
 			</dict>
 			<dict>
 				<key>name</key>
+				<string>Named color</string>
+				<key>scope</key>
+				<string>support.constant.color</string>
+				<key>settings</key>
+				<dict>
+					<key>foreground</key>
+					<string>#68bfb6</string>
+				</dict>
+			</dict>
+			<dict>
+				<key>name</key>
 				<string>Library class/type</string>
 				<key>scope</key>
 				<string>support.type, support.class</string>
