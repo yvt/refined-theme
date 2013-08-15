@@ -599,7 +599,7 @@
 				<key>name</key>
 				<string>css.string</string>
 				<key>scope</key>
-				<string>meta.attribute-selector.css string</string>
+				<string>meta.attribute-selector.css</string>
 				<key>settings</key>
 				<dict>
 					<key>foreground</key>
