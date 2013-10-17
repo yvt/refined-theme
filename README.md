@@ -19,6 +19,8 @@ If you do not wish to use Package Control, clone this repository directly into t
 
 ### Example User Settings
 
+    // Refined-3 - Sublime 3 specific + retina support
+    "theme": "Refined-3.sublime-theme",
     // Hybrid
     "theme": "Refined-Hybrid.sublime-theme",
     // Light
