@@ -14,7 +14,7 @@
     "tab_overlap": 1,
     "tab_width": 180,
     "tab_min_width": 50,
-    "tab_height": 22,
+    "tab_height": 26,
     "mouse_wheel_switch": false
   },
   {
@@ -399,7 +399,7 @@
   // Sidebar tree
   {
     "class": "sidebar_tree",
-    "row_padding": [8, 3],
+    "row_padding": [8, 5],
     "indent": 15,
     "indent_offset": 15,
     "indent_top_level": false,
